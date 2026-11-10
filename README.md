@@ -17,7 +17,7 @@ Created since 2026-08-10, newest first.
 
 | Created | Repository | Public page | Purpose |
 |---|---|---|---|
-| 2026-11-10 | [claude_architect_100_qa](https://github.com/srinipusuluri/claude_architect_100_qa) | — | claude_architect_100_qa |
+| 2026-11-10 | [claude_architect_100_qa](https://github.com/srinipusuluri/claude_architect_100_qa) | [Claude_architect_qa] (https://srinipusuluri.github.io/claude_architect_100_qa/) | claude_architect_100_qa |
 | 2026-11-09 | [principal_ai_interview_toolkit](https://github.com/srinipusuluri/principal_ai_interview_toolkit) | [Live page](https://srinipusuluri.github.io/principal_ai_interview_toolkit/) | Principal AI Engineer & Architect Interview Toolkit: A single-page, practice-first study guide: 8 domains, 80 interview questions with model answers and common pitfalls, a whiteboard drill per domain, and 66 link-checked learning resources. |
 | 2026-11-08 | [rag-white-paper](https://github.com/srinipusuluri/rag-white-paper) | — | RAG White Paper & RAG Lab: Companion repository for the technical paper "Retrieval-Augmented Generation: A Survey of Techniques and a Practical Guide to Hyperparameter Tuning", plus RAG Lab, the framework used to run the comparisons. |
 | 2026-11-05 | [ai2026nov-portal](https://github.com/srinipusuluri/ai2026nov-portal) | [Live page](https://srinipusuluri.github.io/ai2026nov-portal/) | AI Mastery — End-to-End Learning Portal: End-to-end AI Master Learning Portal: in-depth lessons on AI, ML, deep learning, LLMs, RAG, agents, MCP, governance, evaluation and MLOps. |
