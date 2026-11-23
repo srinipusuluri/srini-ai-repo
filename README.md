@@ -2,9 +2,9 @@
 
 An index of my public GitHub repositories on AI, Claude, agents, RAG, Salesforce and enterprise AI architecture, with a link to each repo, its published GitHub Pages site (where one exists) and a one-line purpose.
 
-- **167** public repositories
-- **112** with a live GitHub Pages site
-- Last updated: 2026-11-10
+- **175** public repositories
+- **117** with a live GitHub Pages site
+- Last updated: 2026-11-23
 
 ## Contents
 
@@ -17,7 +17,15 @@ Created since 2026-08-10, newest first.
 
 | Created | Repository | Public page | Purpose |
 |---|---|---|---|
-| 2026-11-10 | [claude_architect_100_qa](https://github.com/srinipusuluri/claude_architect_100_qa) | [Claude_architect_qa] (https://srinipusuluri.github.io/claude_architect_100_qa/) | claude_architect_100_qa |
+| 2026-11-23 | [aws-deploy-methods-code](https://github.com/srinipusuluri/aws-deploy-methods-code) | [Live page](https://srinipusuluri.github.io/aws-deploy-methods-code/) | AWS Deploy Methods: Claude Chatbot in Seven Levels: Reference implementation of a Claude-powered chatbot on AWS, built up in seven releases from a public Q&A demo to a governed multi-tenant AI gateway, each level with its own source folder and SAM template. |
+| 2026-11-23 | [ai-native-salesforce-sdlc](https://github.com/srinipusuluri/ai-native-salesforce-sdlc) | [Live page](https://srinipusuluri.github.io/ai-native-salesforce-sdlc/) | AI-Native Salesforce SDLC: Interactive single-page explainer on how GenAI, Claude, Claude Code and Claude Cowork fit across the Salesforce SDLC and Scrum. |
+| 2026-11-21 | [ai_books](https://github.com/srinipusuluri/ai_books) | [Live page](https://srinipusuluri.github.io/ai_books/) | AI Simplified: A series of AI books for high schoolers. Start your AI journey with no fear and no jargon. |
+| 2026-11-19 | [ai_ml_dl_llm_class](https://github.com/srinipusuluri/ai_ml_dl_llm_class) | — | AI · ML · DL · LLM Class: An interactive classroom toolkit that teaches how machines learn, from a straight line to the idea behind ChatGPT and Claude, aimed at high-school students. |
+| 2026-11-18 | [ai_agent_market_intelligence](https://github.com/srinipusuluri/ai_agent_market_intelligence) | [Live page](https://srinipusuluri.github.io/ai_agent_market_intelligence/) | Agent Atlas, AI Agent Technology Market Intelligence: An interactive single-page directory of the frontier model, agent and infrastructure companies building the AI agent ecosystem. |
+| 2026-11-13 | [quantum-2027](https://github.com/srinipusuluri/quantum-2027) | [Live page](https://srinipusuluri.github.io/quantum-2027/) | Quantum end to end. |
+| 2026-11-12 | [ai-systems-design-portal](https://github.com/srinipusuluri/ai-systems-design-portal) | — | AI Systems Design Portal: A single-page learning portal on production AI systems design: rate limiting, streaming, idempotency, LLM serving, batching, caching, reliability, security, load balancing, observability and cost optimization. |
+| 2026-11-11 | [mcp-gateway](https://github.com/srinipusuluri/mcp-gateway) | — | MCP Gateway: Salesforce Code Mode for Claude: Claude writes one TypeScript program instead of making dozens of tool calls, and it runs in an isolated sandbox with no network and no secrets. |
+| 2026-11-10 | [claude_architect_100_qa](https://github.com/srinipusuluri/claude_architect_100_qa) | [Live page](https://srinipusuluri.github.io/claude_architect_100_qa/) | claude_architect_100_qa |
 | 2026-11-09 | [principal_ai_interview_toolkit](https://github.com/srinipusuluri/principal_ai_interview_toolkit) | [Live page](https://srinipusuluri.github.io/principal_ai_interview_toolkit/) | Principal AI Engineer & Architect Interview Toolkit: A single-page, practice-first study guide: 8 domains, 80 interview questions with model answers and common pitfalls, a whiteboard drill per domain, and 66 link-checked learning resources. |
 | 2026-11-08 | [rag-white-paper](https://github.com/srinipusuluri/rag-white-paper) | — | RAG White Paper & RAG Lab: Companion repository for the technical paper "Retrieval-Augmented Generation: A Survey of Techniques and a Practical Guide to Hyperparameter Tuning", plus RAG Lab, the framework used to run the comparisons. |
 | 2026-11-05 | [ai2026nov-portal](https://github.com/srinipusuluri/ai2026nov-portal) | [Live page](https://srinipusuluri.github.io/ai2026nov-portal/) | AI Mastery — End-to-End Learning Portal: End-to-end AI Master Learning Portal: in-depth lessons on AI, ML, deep learning, LLMs, RAG, agents, MCP, governance, evaluation and MLOps. |
@@ -40,6 +48,14 @@ Newest first.
 
 | Created | Repository | Public page | Purpose |
 |---|---|---|---|
+| 2026-11-23 | [aws-deploy-methods-code](https://github.com/srinipusuluri/aws-deploy-methods-code) | [Live page](https://srinipusuluri.github.io/aws-deploy-methods-code/) | AWS Deploy Methods: Claude Chatbot in Seven Levels: Reference implementation of a Claude-powered chatbot on AWS, built up in seven releases from a public Q&A demo to a governed multi-tenant AI gateway, each level with its own source folder and SAM template. |
+| 2026-11-23 | [ai-native-salesforce-sdlc](https://github.com/srinipusuluri/ai-native-salesforce-sdlc) | [Live page](https://srinipusuluri.github.io/ai-native-salesforce-sdlc/) | AI-Native Salesforce SDLC: Interactive single-page explainer on how GenAI, Claude, Claude Code and Claude Cowork fit across the Salesforce SDLC and Scrum. |
+| 2026-11-21 | [ai_books](https://github.com/srinipusuluri/ai_books) | [Live page](https://srinipusuluri.github.io/ai_books/) | AI Simplified: A series of AI books for high schoolers. Start your AI journey with no fear and no jargon. |
+| 2026-11-19 | [ai_ml_dl_llm_class](https://github.com/srinipusuluri/ai_ml_dl_llm_class) | — | AI · ML · DL · LLM Class: An interactive classroom toolkit that teaches how machines learn, from a straight line to the idea behind ChatGPT and Claude, aimed at high-school students. |
+| 2026-11-18 | [ai_agent_market_intelligence](https://github.com/srinipusuluri/ai_agent_market_intelligence) | [Live page](https://srinipusuluri.github.io/ai_agent_market_intelligence/) | Agent Atlas, AI Agent Technology Market Intelligence: An interactive single-page directory of the frontier model, agent and infrastructure companies building the AI agent ecosystem. |
+| 2026-11-13 | [quantum-2027](https://github.com/srinipusuluri/quantum-2027) | [Live page](https://srinipusuluri.github.io/quantum-2027/) | Quantum end to end. |
+| 2026-11-12 | [ai-systems-design-portal](https://github.com/srinipusuluri/ai-systems-design-portal) | — | AI Systems Design Portal: A single-page learning portal on production AI systems design: rate limiting, streaming, idempotency, LLM serving, batching, caching, reliability, security, load balancing, observability and cost optimization. |
+| 2026-11-11 | [mcp-gateway](https://github.com/srinipusuluri/mcp-gateway) | — | MCP Gateway: Salesforce Code Mode for Claude: Claude writes one TypeScript program instead of making dozens of tool calls, and it runs in an isolated sandbox with no network and no secrets. |
 | 2026-11-10 | [claude_architect_100_qa](https://github.com/srinipusuluri/claude_architect_100_qa) | — | claude_architect_100_qa |
 | 2026-11-09 | [principal_ai_interview_toolkit](https://github.com/srinipusuluri/principal_ai_interview_toolkit) | [Live page](https://srinipusuluri.github.io/principal_ai_interview_toolkit/) | Principal AI Engineer & Architect Interview Toolkit: A single-page, practice-first study guide: 8 domains, 80 interview questions with model answers and common pitfalls, a whiteboard drill per domain, and 66 link-checked learning resources. |
 | 2026-11-08 | [rag-white-paper](https://github.com/srinipusuluri/rag-white-paper) | — | RAG White Paper & RAG Lab: Companion repository for the technical paper "Retrieval-Augmented Generation: A Survey of Techniques and a Practical Guide to Hyperparameter Tuning", plus RAG Lab, the framework used to run the comparisons. |
